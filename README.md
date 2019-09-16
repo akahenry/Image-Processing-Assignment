@@ -16,7 +16,7 @@ It only works in Windows.
     * tgui-d.dll
   
 ## Running
-You must drag only one image to T1.exe or, in command line, run
+You must drag only one image to `T1.exe` or, in command line, run
 `T1.exe <image>`
 
 This program saves as `output.jpg`. If there is any file with this name, the application will overwrite it.

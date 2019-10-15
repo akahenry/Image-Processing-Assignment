@@ -1,4 +1,4 @@
-# Image Processing Assignment
+# Image Processing First Assignment
 This is the first project of Fundamentals of Image Processing (UFRGS).  
 I've used SFML (www.sfml-dev.org) to load, draw and save images. Also, TGUI (tgui.eu) was used to create an interface.
 
